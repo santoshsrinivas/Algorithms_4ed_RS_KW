@@ -1,5 +1,5 @@
 /*
-Remove Duplicates. Modify the test client in BinarySearch to remove any duplicate keys in the whitelist after the sort.
+Remove Duplicates. Modify the test client in BinarySearch to remove any duplicate keys in the whitelist after the sort	.
 */
 import java.util.Arrays;
 import java.util.ArrayList;
